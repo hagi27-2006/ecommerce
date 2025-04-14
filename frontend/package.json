@@ -16,7 +16,9 @@
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.27.0",
     "react-toastify": "^10.0.6",
-    "toastify": "^2.0.1"
+    "toastify": "^2.0.1",
+    "vite": "^5.4.10"
+	
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",
